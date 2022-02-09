@@ -14,3 +14,10 @@ gradle.bat clean build install --parallel -x test -x javadoc -x check -b webapp/
 ## try:
 
 https://www.baeldung.com/spring-security-cas-sso
+
+
+## resources
+
+
+https://dacurry-tns.github.io/deploying-apereo-cas/building_server_service-registry_configure-the-service-registry.html
+
