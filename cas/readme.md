@@ -21,3 +21,7 @@ https://www.baeldung.com/spring-security-cas-sso
 
 https://dacurry-tns.github.io/deploying-apereo-cas/building_server_service-registry_configure-the-service-registry.html
 
+key store config
+
+https://apereo.github.io/cas/developer/Build-Process-6X.html
+
