@@ -14,4 +14,5 @@ CMD ["catalina.sh", "run"]
 ```
 
 `docker build -t cas-tomcat` 
+
 `docker run -p 80:8080 cas-tomcat`
